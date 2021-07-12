@@ -5,6 +5,7 @@ name = "pypi"
 
 [dev-packages]
 check-manifest = "*"
+twine = "*"
 
 [requires]
 python_version = "3.8"
